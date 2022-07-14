@@ -6,9 +6,12 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1613313405_13-p-sinee-more-fon-17.jpg");
   background-repeat: no-repeat;
   background-position: top center;
+}
+a { 
+	color:green;
 }
 
 .container {
